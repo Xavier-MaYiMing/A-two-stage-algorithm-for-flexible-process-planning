@@ -2,7 +2,7 @@
 
 This repository contains the official code for the paper titled **"Balancing optimality and efficiency in solving flexible process planning: A two-stage algorithm"** submitted to the ***International Journal of Production Research***.
 
-![3864493119](/Users/xavier/Library/Containers/com.tencent.qq/Data/tmp/3864493119.png)
+![](https://github.com/Xavier-MaYiMing/A-two-stage-algorithm-for-flexible-process-planning/blob/main/framework.png)
 
 The repository includes all test cases and the metaheuristics used in the study, including:
 
