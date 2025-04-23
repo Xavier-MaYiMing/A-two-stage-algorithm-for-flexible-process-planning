@@ -115,7 +115,9 @@ The convergence iteration: 256
 
 13. Huang, W., Lin, W., & Xu, S. (2017). Application of graph theory and hybrid GA-SA for operation sequencing in a dynamic workshop environment. *Computer-Aided Design and Applications*, 14(2), 148-159. 
 14. Petrović, M., Mitić, M., Vuković, N., & Miljković, Z. (2016). Chaotic particle swarm optimization algorithm for flexible process planning. *The International Journal of Advanced Manufacturing Technology*, 85, 2535-2555. 
-15. Luo, K., Shen, G., Li, L., & Sun, J. (2023). 0-1 mathematical programming models for flexible process planning. *European Journal of Operational Research*, 308(3), 1160-1175. 
+15. Luo, K., Shen, G., Li, L., & Sun, J. (2023). 0-1 mathematical programming models for flexible process planning. *European Journal of Operational Research*, 308(3), 1160-1175.
+
+---
 
 If you use any code from this repository in your work, please cite the following article:
 
