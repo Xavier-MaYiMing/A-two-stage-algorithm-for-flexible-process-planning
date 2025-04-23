@@ -1,6 +1,6 @@
 # Flexible Process Planning (FPP) Algorithms
 
-This repository contains the official code for the paper titled **"Balancing optimality and efficiency in solving flexible process planning: A two-stage algorithm"** submitted to the ***International Journal of Production Research***.
+This repository contains the official code for the paper titled **"Balancing optimality and efficiency in solving flexible process planning: A parameter-free two-stage algorithm"** published in ***International Journal of Production Research***.
 
 ![](https://github.com/Xavier-MaYiMing/A-two-stage-algorithm-for-flexible-process-planning/blob/main/framework.png)
 
@@ -111,6 +111,20 @@ The convergence iteration: 256
 9. Li, W.D., & McMahon, C.A. (2007). A simulated annealing-based optimization approach for integrated process planning and scheduling. *International Journal of Computer Integrated Manufacturing*, 20(1), 80-95.
 10. Wang, Y.F., Zhang, Y.F., & Fuh, J.Y.H. (2009). Using hybrid particle swarm optimization for process planning problem. In *2009 International Joint Conference on Computational Sciences and Optimization* (Vol. 1, pp. 304-308).
 11. Wang, Y.F., Zhang, Y.F., & Fuh, J.Y.H. (2012). A hybrid particle swarm based method for process planning optimisation. *International Journal of Production Research*, 50(1), 277-292.
-12. Huang, W., Lin, W., & Xu, S. (2017). Application of graph theory and hybrid GA-SA for operation sequencing in a dynamic workshop environment. *Computer-Aided Design and Applications*, 14(2), 148-159. 
-13. Petrović, M., Mitić, M., Vuković, N., & Miljković, Z. (2016). Chaotic particle swarm optimization algorithm for flexible process planning. *The International Journal of Advanced Manufacturing Technology*, 85, 2535-2555. 
-14. Luo, K., Shen, G., Li, L., & Sun, J. (2023). 0-1 mathematical programming models for flexible process planning. *European Journal of Operational Research*, 308(3), 1160-1175. 
+
+
+13. Huang, W., Lin, W., & Xu, S. (2017). Application of graph theory and hybrid GA-SA for operation sequencing in a dynamic workshop environment. *Computer-Aided Design and Applications*, 14(2), 148-159. 
+14. Petrović, M., Mitić, M., Vuković, N., & Miljković, Z. (2016). Chaotic particle swarm optimization algorithm for flexible process planning. *The International Journal of Advanced Manufacturing Technology*, 85, 2535-2555. 
+15. Luo, K., Shen, G., Li, L., & Sun, J. (2023). 0-1 mathematical programming models for flexible process planning. *European Journal of Operational Research*, 308(3), 1160-1175. 
+
+If you use any code from this repository in your work, please cite the following article:
+
+```bibtex
+@article{ma2025balancing,
+  title={Balancing optimality and efficiency in solving flexible process planning: A parameter-free two-stage algorithm},
+  author={Ma, Yiming and Luo, Kaiping and Chou, Mabel C and Sun, Jianfei},
+  journal={International Journal of Production Research},
+  pages={1--18},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
